@@ -31,7 +31,3 @@ X_all, Y_all учитывают двигатель (35x42), колеса (R2=10,
 
 * PyTorch (autograd)
 * Adam(lr=0.03), 10000 шагов
-
-ipykernel>=6.20.0
-
-```
