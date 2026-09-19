@@ -1,6 +1,7 @@
 # Оптимизация компоновки редуктора
 
 Минимизация габаритной площади корпуса методом штрафных функций в PyTorch.
+<img width="523" height="313" alt="image" src="https://github.com/user-attachments/assets/eb5a7ecb-aa8e-49b9-98c9-2fedbc002ffd" />
 
 ### 1. Кинематика осей
 
