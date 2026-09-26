@@ -2,6 +2,7 @@
 
 Минимизация габаритной площади корпуса методом штрафных функций в PyTorch.
 <img width="541" height="593" alt="image" src="https://github.com/user-attachments/assets/c92d8a7e-c706-4465-bf86-9c67a416f3a2" />
+<img width="506" height="593" alt="image" src="https://github.com/user-attachments/assets/f2518648-ffc4-450d-8984-681dba72cd54" />
 
 Можно поменять под ваш редуктор! Теперь с мультизапуском. Упомяните меня в своем курсаче).
 ### 1. Кинематика осей
